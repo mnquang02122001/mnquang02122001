@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quang</h1>
-<h3 align="center">A passionate CS student from Vietnam</h3>
+<h3 align="center">A passionate Software Developer from Vietnam</h3>
 
 - 📫 How to reach me **mnquang123@gmail.com**
 
